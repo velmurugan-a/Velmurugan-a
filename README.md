@@ -4,7 +4,7 @@
 - 🌱 Currently learning Data Structures and Algorithms, and exploring ways to integrate AI into projects and workflows.
 
 - Social Presence
-<br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/velmurugan616/)
+<br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/avelmurugan/)
 <br/>[<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/vel_dark_/)
 
 ### I code in
